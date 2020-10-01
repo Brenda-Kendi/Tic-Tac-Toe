@@ -1,5 +1,5 @@
 var origBoard;
-const huPlayer='0';
+const huPlayer='O';
 const aiPlayer='X';
 const winCombos=[
     [0,1,2],
